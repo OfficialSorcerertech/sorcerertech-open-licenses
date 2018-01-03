@@ -3,7 +3,7 @@ USAGE MUST ABIDE BY THE LICENSE BELOW
 
 
 This software and associated documentation files (the "Software") is licensed
-under the Sorcerertech Open Web License, found below.
+under the Sorcerertech Open Web License v1, found below.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this Software, to deal in the Software without restriction, including
